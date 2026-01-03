@@ -32,3 +32,9 @@ Built using **Streamlit**, this tool helps both **regular** and **lateral entry*
 The percentage is calculated using the following formula:  
 
 Percentage = (CGPA - 0.5) * 10
+
+
+
+
+
+
