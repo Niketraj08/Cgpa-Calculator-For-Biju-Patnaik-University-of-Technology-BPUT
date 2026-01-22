@@ -2,9 +2,7 @@
 
 This is a simple and user-friendly **CGPA to Percentage Calculator** for students of the **Biju Patnaik University of Technology (BPUT)**.  
 Built using **Streamlit**, this tool helps both **regular** and **lateral entry** students calculate their percentage quickly and accurately.
-
 ---
-
 ## 🎯 Features:
 - 📌 **Default credit points** based on BPUT standards.  
 - 💻 Editable SGPA and credit fields.  
